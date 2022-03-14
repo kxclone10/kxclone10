@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kxclone10
 - 👀 I’m interested in security, web development, software development, devOps...
-- 🌱 I’m currently learning how to melize software architecture with uml and database..
+- 🌱 I’m currently learning how to modelize software architecture with uml and database..
 - 💞️ I’m looking to collaborate with all worker in IT domain..
 - 📫 How to reach me: mailto nlectro1@gmail.com
 
